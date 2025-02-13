@@ -32,9 +32,8 @@ export default function Page() {
             </h2>
 
             <p className="mt-4 leading-relaxed text-white/90">
-              AI-Mock-Interview is a platform that allows you to practice your
-              technical interview skills by answering questions from a mock
-              interview.
+              
+              AI-Mock-Interview is a platform designed to help you prepare for technical interviews by providing step-by-step guides, practice questions, and real-world examples. We've curated a diverse range of topics to help you expand your knowledge and improve your coding skills.
             </p>
           </div>
         </section>
@@ -65,9 +64,10 @@ export default function Page() {
               </h1>
 
               <p className="mt-4 leading-relaxed text-gray-500">
-                AI-Mock-Interview is a platform that allows you to practice your
-                technical interview skills by answering questions from a mock
-                interview.
+
+                AI-Mock-Interview is a platform designed to help you prepare for technical interviews by providing step-by-step guides, practice questions, and real-world examples. We've curated a diverse range of topics to help you expand your knowledge and improve your coding skills.
+                
+                
               </p>
             </div>
             <SignIn />
